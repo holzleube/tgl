@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Kriterienbaum.svg"
+   inkscape:export-filename="D:\Projekte\tgl\figures\Kriterienbaum.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="68.568573"
+     inkscape:cy="612.71989"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="1672"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 958.63477,883.66673 -4.04061,-3.03046"
+       id="path3654"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3703"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3705"><rect
+           id="rect3707"
+           width="9.0913725"
+           height="135.36044"
+           x="546.49255"
+           y="801.84436" /></flowRegion><flowPara
+         id="flowPara3709" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path4138"
+       d="m 853.57143,577.3622 0,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 820,813.79078 0.71429,5.71428"
+       id="path3879"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="3" />
+    <g
+       id="g4412"
+       transform="translate(191.42857,27.142862)">
+      <ellipse
+         ry="36.428574"
+         rx="72.857147"
+         cy="304.50504"
+         cx="195"
+         id="path4404"
+         style="fill:#cccccc" />
+      <ellipse
+         ry="10"
+         rx="7.1428571"
+         cy="309.50507"
+         cx="175"
+         id="path4406"
+         style="fill:#cccccc" />
+      <text
+         transform="scale(0.87740509,1.1397244)"
+         sodipodi:linespacing="125%"
+         id="text4408"
+         y="274.76971"
+         x="161.20142"
+         style="font-style:normal;font-weight:normal;font-size:29.20464325px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="274.76971"
+           x="161.20142"
+           id="tspan4410"
+           sodipodi:role="line">Kriterien</tspan></text>
+    </g>
+    <g
+       id="g4412-1"
+       transform="matrix(0.87745099,0,0,0.86274511,7.825632,173.9377)">
+      <ellipse
+         ry="36.428574"
+         rx="72.857147"
+         cy="304.50504"
+         cx="195"
+         id="path4404-8"
+         style="fill:#cccccc" />
+      <ellipse
+         ry="10"
+         rx="7.1428571"
+         cy="309.50507"
+         cx="175"
+         id="path4406-9"
+         style="fill:#cccccc" />
+      <text
+         transform="scale(0.88253543,1.133099)"
+         sodipodi:linespacing="125%"
+         id="text4408-0"
+         y="276.37634"
+         x="151.3614"
+         style="font-style:normal;font-weight:normal;font-size:29.37540627px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="276.37634"
+           x="151.3614"
+           id="tspan4410-0"
+           sodipodi:role="line">Technisch</tspan></text>
+    </g>
+    <g
+       id="g4412-1-6"
+       transform="matrix(0.68627453,0,0,0.80392158,190.46218,303.99261)">
+      <ellipse
+         ry="36.428574"
+         rx="72.857147"
+         cy="304.50504"
+         cx="195"
+         id="path4404-8-4"
+         style="fill:#cccccc" />
+      <ellipse
+         ry="10"
+         rx="7.1428571"
+         cy="309.50507"
+         cx="175"
+         id="path4406-9-7"
+         style="fill:#cccccc" />
+      <text
+         transform="scale(0.81043186,1.23391)"
+         sodipodi:linespacing="125%"
+         id="text4408-0-0"
+         y="253.8244"
+         x="165.13663"
+         style="font-style:normal;font-weight:normal;font-size:25.11694145px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="253.8244"
+           x="165.13663"
+           id="tspan4410-0-7"
+           sodipodi:role="line">Wartbarkeit</tspan></text>
+    </g>
+    <g
+       id="g4412-1-6-7"
+       transform="matrix(0.68627453,0,0,0.80392158,64.747903,302.56403)">
+      <ellipse
+         ry="36.428574"
+         rx="72.857147"
+         cy="304.50504"
+         cx="195"
+         id="path4404-8-4-2"
+         style="fill:#cccccc" />
+      <ellipse
+         ry="10"
+         rx="7.1428571"
+         cy="309.50507"
+         cx="175"
+         id="path4406-9-7-5"
+         style="fill:#cccccc" />
+      <text
+         transform="scale(0.93963431,1.0642438)"
+         sodipodi:linespacing="125%"
+         id="text4408-0-0-7"
+         y="294.29016"
+         x="141.78166"
+         style="font-style:normal;font-weight:normal;font-size:29.12118912px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="294.29016"
+           x="141.78166"
+           id="tspan4410-0-7-2"
+           sodipodi:role="line">Usability</tspan></text>
+    </g>
+    <g
+       id="g4412-1-6-7-7"
+       transform="matrix(1.0392157,0,0,0.80392158,-111.21848,353.9926)">
+      <ellipse
+         ry="36.428574"
+         rx="72.857147"
+         cy="304.50504"
+         cx="195"
+         id="path4404-8-4-2-8"
+         style="fill:#cccccc" />
+      <ellipse
+         ry="10"
+         rx="7.1428571"
+         cy="309.50507"
+         cx="175"
+         id="path4406-9-7-5-9"
+         style="fill:#cccccc" />
+      <text
+         transform="scale(0.65686801,1.5223758)"
+         sodipodi:linespacing="125%"
+         id="text4408-0-0-7-3"
+         y="209.10512"
+         x="204.0863"
+         style="font-style:normal;font-weight:normal;font-size:28.64248466px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="209.10512"
+           x="204.0863"
+           id="tspan4410-0-7-2-9"
+           sodipodi:role="line">Datenschutz</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 335.22117,357.56009 223.47511,414.1063"
+       id="path4538"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4412"
+       inkscape:connection-end="#g4412-1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 213.28294,463.15228 80.76923,62.31336"
+       id="path4540"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4412-1"
+       inkscape:connection-end="#g4412-1-6" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 184.48349,467.95744 8.92002,50.27644"
+       id="path4542"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4412-1"
+       inkscape:connection-end="#g4412-1-6-7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 162.53547,467.02535 106.89892,570.12329"
+       id="path4544"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4412-1"
+       inkscape:connection-end="#g4412-1-6-7-7" />
+    <g
+       id="g4412-1-5"
+       transform="matrix(1.2675184,0,0,0.86274511,286.25312,174.65197)">
+      <ellipse
+         ry="36.428574"
+         rx="96.525444"
+         cy="304.50504"
+         cx="218.66829"
+         id="path4404-8-1"
+         style="fill:#cccccc" />
+      <ellipse
+         ry="10"
+         rx="7.1428571"
+         cy="309.50507"
+         cx="175"
+         id="path4406-9-8"
+         style="fill:#cccccc" />
+      <text
+         transform="scale(0.74720136,1.3383273)"
+         sodipodi:linespacing="125%"
+         id="text4408-0-7"
+         y="233.9949"
+         x="185.25105"
+         style="font-style:normal;font-weight:normal;font-size:24.87077904px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="233.9949"
+           x="185.25105"
+           id="tspan4410-0-2"
+           sodipodi:role="line">Wirtschaftlichkeit</tspan></text>
+    </g>
+    <g
+       id="g4412-1-6-7-7-4"
+       transform="matrix(0.68627453,0,0,0.80392158,551.89075,305.42118)">
+      <ellipse
+         ry="36.428574"
+         rx="72.857147"
+         cy="304.50504"
+         cx="195"
+         id="path4404-8-4-2-8-2"
+         style="fill:#cccccc" />
+      <ellipse
+         ry="10"
+         rx="7.1428571"
+         cy="309.50507"
+         cx="175"
+         id="path4406-9-7-5-9-2"
+         style="fill:#cccccc" />
+      <text
+         transform="scale(0.87856503,1.1382197)"
+         sodipodi:linespacing="125%"
+         id="text4408-0-0-7-3-6"
+         y="279.67938"
+         x="150.89607"
+         style="font-style:normal;font-weight:normal;font-size:38.30949783px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="279.67938"
+           x="150.89607"
+           id="tspan4410-0-7-2-9-5"
+           sodipodi:role="line">Kosten</tspan></text>
+    </g>
+    <g
+       id="g4412-1-6-7-7-4-2"
+       transform="matrix(1.2647059,0,0,0.80392158,264.81093,311.13547)">
+      <ellipse
+         ry="36.428574"
+         rx="72.857147"
+         cy="304.50504"
+         cx="195"
+         id="path4404-8-4-2-8-2-9"
+         style="fill:#cccccc" />
+      <ellipse
+         ry="10"
+         rx="7.1428571"
+         cy="309.50507"
+         cx="175"
+         id="path4406-9-7-5-9-2-4"
+         style="fill:#cccccc" />
+      <text
+         transform="scale(0.69370992,1.4415247)"
+         sodipodi:linespacing="125%"
+         id="text4408-0-0-7-3-6-2"
+         y="217.27957"
+         x="199.82349"
+         style="font-style:normal;font-weight:normal;font-size:20.7040844px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="217.27957"
+           x="199.82349"
+           id="tspan4410-0-7-2-9-5-5"
+           sodipodi:role="line">Realisierbarkeit</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 433.19466,359.5807 81.88689,48.91002"
+       id="path3575"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4412"
+       inkscape:connection-end="#g4412-1-5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 658.92079,525.4936 -62.6924,-57.85421"
+       id="path3579"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4412-1-6-7-7-4"
+       inkscape:connection-end="#g4412-1-5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.55209279px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 545.07507,467.27124 529.8388,527.06145"
+       id="path3581"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="135.71428"
+       y="242.36221"
+       id="text3583"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3585"
+         x="135.71428"
+         y="242.36221">Kriterien zur Bewertung</tspan></text>
+  </g>
+</svg>
