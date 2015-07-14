@@ -1,0 +1,82 @@
+%% titlepage.tex
+%%
+
+% coordinates for the bg shape on the titlepage
+\newcommand{\diameter}{20}
+\newcommand{\xone}{-15}
+\newcommand{\xtwo}{160}
+\newcommand{\yone}{15}
+\newcommand{\ytwo}{-253}
+
+\begin{titlepage}
+% bg shape
+	\begin{textblock}{10}[0,0](4,2.5)
+		\iflanguage{english}
+			{\includegraphics[width=.3\textwidth]{logos/KITLogo_EN_RGB.pdf}}
+			{\includegraphics[width=.3\textwidth]{logos/KITLogo_DE_RGB.pdf}}		
+	\end{textblock}
+	\begin{textblock}{10}[0,0](15,2.5)
+		\includegraphics[width=.1\textwidth]{logos/FZI_Logo.png}
+	\end{textblock}
+	\changefont{ppl}{m}{n}	% helvetica	(phv), % IM Style: palatino (ppl) 
+	\vspace*{3.5cm}
+	\begin{center}
+		\Huge{\mytitle}
+		\vspace*{2cm}\\
+		\Large{
+			Seminar Technologiegestütztes Lernen (TGL) \\
+			\iflanguage{english}{\mytype\\of}			
+								{\mytype\\von}
+		}\\
+		\vspace*{1cm}
+		\huge{\myname}\\
+		\vspace*{1cm}
+		\Large{
+			\iflanguage{english}{At the Department of ...}			
+							    {An der Fakult\"at f\"ur W...}
+			\\
+			\myinstitute
+		}
+	\end{center}
+	\vspace*{3cm}
+\Large{
+\begin{center}
+\begin{tabular}[ht]{l c l}
+  % Gutachter sind die Professoren, die die Arbeit bewerten. 
+  %\iflanguage{english}{Reviewer}{Erstgutachter}: & \hfill  & \reviewerone\\
+  %\iflanguage{english}{Reviewer}{Gutachter}: & \hfill  & \reviewerone\\
+  %\iflanguage{english}{Second reviewer}{Zweitgutachter}: & \hfill  & \reviewertwo\\
+  \iflanguage{english}{Advisor}{Betreuer}: & \hfill  & \advisor\\
+  \iflanguage{english}{ }{ } & \hfill  & \advisortwo\\
+  \iflanguage{english}{ }{ } & \hfill  & \advisorthree\\	
+  % IM: No second advisor
+  % Der zweite betreuende Mitarbeiter kann weggelassen werden. 
+\end{tabular}
+\end{center}
+}
+
+
+\vspace{3cm}
+\begin{center}
+\large{\timeend}
+% \iflanguage{english}{Duration:}{Bearbeitungszeit:} \timestart \hspace*{0.25cm}
+% -- \hspace*{0.25cm} 
+% \timeend}
+\end{center}
+
+
+\begin{textblock}{10}[0,0](4,16.8)
+\tiny{ 
+	\iflanguage{english}
+		{KIT -- University of the State of Baden-Wuerttemberg and National Laboratory of the Helmholtz Association}
+		{KIT -- Universit\"at des Landes Baden-W\"urttemberg und nationales Forschungszentrum der Helmholtz-Gesellschaft}
+}
+\end{textblock}
+
+\begin{textblock}{10}[0,0](14,16.75)
+\large{
+	\textbf{www.kit.edu} 
+}
+\end{textblock}
+
+\end{titlepage}

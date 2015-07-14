@@ -1,0 +1,181 @@
+\documentclass{thesisclass}
+
+%% -------------------------------
+%% |    TGL Seminar Template - adapted from the IM Thesis Template       |
+%% -------------------------------
+%% Additions by: David Dauer, IM, 2011
+%% dauer@iism.uni-karlsruhe.de
+%% Adapted for the seminar by: Verónica Rivera-Pelayo, FZI, 2013
+
+%% Notes:
+%% Language switch after \begin{document}
+
+% Based on thesisclass.cls of Timo Rohrberg, 2009
+% ----------------------------------------------------------------
+% Thesis - Main document
+% ----------------------------------------------------------------
+
+%% ---------------------------------
+%% |      Additional packages      |
+%% ---------------------------------
+%% 
+
+\usepackage{graphicx}
+%http://en.wikibooks.org/wiki/LaTeX/Importing_Graphics#Graphics_storage
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\graphicspath{{./figures/}} %Use curly braces for each path to add and don't
+% forget trailing slash '/'
+% \usepackage{epstopdf} %Nice to automatically convert eps figures to pdf
+% format  (from inkscape, etc)
+\usepackage{}
+
+
+%% ---------------------------------
+%% | Information about the thesis  |
+%% ---------------------------------
+
+\newcommand{\mytype}{\iflanguage{english}{Seminar Thesis}{Seminararbeit}} % (Seminar|Bachelor|Master) Thesis
+\newcommand{\myname}{Jeremy Schmidt, Dane Leube}
+\newcommand{\mytitle}{\iflanguage{english}{Title}{Adaptive Online-Lernhilfe}}
+\newcommand{\myinstitute}{\iflanguage{english}
+{Institute of ... \\
+...}
+{Institut für Wirtschaftswissenschaften \\
+...}}
+
+\newcommand{\advisor}{Dr. Simone Braun}
+\newcommand{\advisortwo}{Tatjana Streit}  %Comment this line if there is no second advisor
+\newcommand{\advisorthree}{Christian Krakowski} %Comment this line if there is no third advisor
+
+\newcommand{\timestart}{16.04.2015}
+\newcommand{\timeend}{31.07.2015}
+\newcommand{\submissiontime}{31.07.2015}
+
+%% -------------------------------
+%% |  Information for PDF file   |
+%% -------------------------------
+%% IM: Auto-Fill this information
+\hypersetup{
+ pdfauthor={\myname},
+ pdftitle={\mytitle},
+ pdfsubject={\mytype},
+ pdfkeywords={\mytype}
+}
+
+%% ---------------------------------
+%% | ToDo Marker - only for draft! |
+%% ---------------------------------
+% Remove this section for final version!
+\setlength{\marginparwidth}{20mm}
+
+\newcommand{\margtodo}
+{\marginpar{\textbf{\textcolor{red}{ToDo}}}{}}
+
+\newcommand{\todo}[1]
+{{\textbf{\textcolor{red}{(\margtodo{}#1)}}}{}}
+
+
+%% --------------------------------
+%% | Settings for word separation |
+%% --------------------------------
+% Help for separation:
+% In german package the following hints are additionally available:
+% "- = Additional separation
+% "| = Suppress ligation and possible separation (e.g. Schaf"|fell)
+% "~ = Hyphenation without separation (e.g. bergauf und "~ab)
+% "= = Hyphenation with separation before and after
+% "" = Separation without a hyphenation (e.g. und/""oder)
+
+% Describe separation hints here:
+\hyphenation{
+% Pro-to-koll-in-stan-zen
+% Ma-na-ge-ment  Netz-werk-ele-men-ten
+% Netz-werk Netz-werk-re-ser-vie-rung
+% Netz-werk-adap-ter Fein-ju-stier-ung
+% Da-ten-strom-spe-zi-fi-ka-tion Pa-ket-rumpf
+% Kon-troll-in-stanz
+}
+
+
+%% ------------------------
+%% |    Including files   |
+%% ------------------------
+% Only files listed here will be included!
+% Userful command for partially translating the document (for bug-fixing e.g.)
+\includeonly{%
+titlepage,
+text/introduction,
+text/content,
+text/evaluation,
+text/conclusion,
+text/declaration,
+text/appendix
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Here, main documents begins %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+% Comment the following line out for German text
+% \selectlanguage{english}
+
+\frontmatter
+\pagenumbering{roman}
+\include{titlepage}
+% IM Style: No additional blank page
+% \blankpage
+
+
+%% -------------------
+%% |   Directories   |
+%% -------------------
+\tableofcontents
+% IM Style: No additional blank page
+% \blankpage
+
+
+
+%% -----------------
+%% |   Main part   |
+%% -----------------
+\mainmatter
+\pagenumbering{arabic}
+\include{text/introduction}
+\include{text/content}
+
+
+
+%% ----------------
+%% |   Appendix   |
+%% ----------------
+% IM Style: No additional blank page
+% \cleardoublepage
+
+
+%% --------------------
+%% |   Bibliography   |
+%% --------------------
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{\bibname}
+
+% IM Style
+\iflanguage{english}
+{\bibliographystyle{apacite}}	% english style
+{\bibliographystyle{apacite}}	% german style
+
+% Informatik-Style
+%\iflanguage{english}
+%{\bibliographystyle{IEEEtranSA}}	% english style
+%{\bibliographystyle{babalpha-fl}}	% german style
+												  
+% Use IEEEtran for numeric references
+%\bibliographystyle{IEEEtranSA})
+
+\bibliography{thesis}
+
+\vspace{2cm}
+** Vorschlag: Referenzen in APA\footnote{http://www.library.cornell.edu/resrch/citmanage/apa} Style. Das ist aber nicht Pflicht. Am besten mit Betreuer besprechen.
+
+\end{document}
