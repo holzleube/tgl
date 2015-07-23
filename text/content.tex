@@ -46,7 +46,7 @@ Als zweite Grundlage haben wir den Ansatz Gamification. Dieser ist für unsere E
 Da es sich bei unseren Lösungsvorschlägen hauptsächlich um verschiedene Arten von Hilfen für ein konkretes Problem handelt, verwenden wir nur einen Teil aus dem Bereich des Gamification in unseren Lösungsvorschlägen. Es handelt sich bei dem verwendeten Teil um die spieltypischen Elemente, wie Punkte, Preise und Vergleiche und die spieltypischen Vorgänge. Wie diese dann konkret in unseren Lösungsvorschlägen verwendet werden, lässt sich im Kapitel der Lern-App nachlesen.
 
 \section{Recommendersysteme}
-
+Ein Teil unseres Lösungsansätzes verwendet ein Recommendersystem.
 \subsection{Begriffserläuterung}
 „\textit{Ein Recommendersystem sammelt Empfehlungen von Benutzern, aggregiert diese Empfehlungen und leitet sie an geeignete Adressaten weiter.}“(aus \cite{recommender})
 
@@ -73,24 +73,28 @@ Die Studenten sind wie Eingangs erwähnt die Profiteure der Software. Dadurch, d
 \subsection{Studierendensekretariat}
 Das Studierendensekretariat oder auch Help-Desk genannt ist für die komplette Verwaltungsarbeit eines Studenten zuständig. Die Nutzer dieser Rolle verwenden die Software im täglichen Gebrauch und dies für mehrere Stunden am Tag. Aus diesem Grund müssen sie die Software möglichste effektiv und schnell beherrschen. Komplexe Prozesse bei der Bedienung der Software muss den Arbeitern geläufig sein, um effizient arbeiten zu können. Weiterhin muss bei einem konkreten Problem beim Verwenden der Software schnell Abhilfe geschaffen werden. 
 \subsection{Studiengangsbearbeiter}
-Eine besondere Rolle im Lebenszyklus der Software nimmt die Rolle des Studiengangsbearbeiters ein. Dieser ist für eine
+Eine besondere Rolle im Lebenszyklus der Software nimmt die Rolle des Studiengangsbearbeiters ein. Diese ist für die Modellierung von Studiengängen zuständig. Diese Art von Nutzer verwenden die Software sehr intensiv und müssen sehr effizient arbeiten, da sie die Software jeden Tag intensiv mit vielen Inhalten nutzen. Die Modellierungsinhalte, welche mit der Software getätigt werden sind sehr komplex und erfordern ein hohes Maß an Konzentration. Damit man diesen Wünschen gerecht werden kann, muss unsere Lösung viel Lerninhalt in kurzer Zeit aufbereiten und für den Nutzer sinnvoll erklären. Natürlich kann die Hilfe nur einen kleinen Teil der Inhalte lernen. Die Basis sollte weiterhin eine intensive Schulung sein, bevor der Nutzer die Software verwendet. Die adaptive Online-Lernhilfe sollte den Nutzer bei der Lösungsfindung in diesem Fall unterstützen und ihm helfen, die Inhalte der Schulung evtl. nachträglich noch einmal zu wiederholen und zu vertiefen.
 
 \subsection{Admins}
+Eine weitere Rolle, die nicht missachtet werden sollte sind die Administratoren der Software. Diese sind für die Konfiguration der einzelnen Bereiche in der Software zuständig und normalerweise erster Ansprechpartner, wenn Probleme bei der Verwendung der Software auftreten. Der Admin muss normalerweise entscheiden, ob es ein Software-Fehler ist oder ein anderes Problem besteht. Bei kleineren Hochschulen kann diese Rolle auch wegfallen, da nicht genügend Kapital für die Finanzierung einer solchen Stelle vorhanden ist. Da die Zielsoftware für größere Hochschulen mit teils sehr technischen Schwerpunkten (Informatik, Maschinenbau, etc.) konzipiert ist, ist anzunehmen, dass es gesonderte Stellen zur Administration der Software gibt. Die Schwerpunkte hier beim eigentlichen Verwenden der Software liegen in dem Deployment von Updates oder dem Lösen von Konfigurationsproblemen. Für diese Zielgruppe soll das Hilfesystem vorwiegend schnell Informationen bereitstellen, so dass der Admin unverzüglich weiterarbeiten kann.
 
 \section{Nutzer Klassifizierung}
+Nachdem die einzelnen Nutzerrollen vorgestellt wurden, werden wir eine Klassifizierung vornehmen um für die klassifizierten Nutzergruppen die passenden Lösungsansätze vorstellen zu können. Die Klassifizierung erfolgte anhand der in Abbildung \ref{img1:userRoles} sichtbaren Kriterien: Nutzunghäufigkeit (Powernutzer, Gelegenheitsnutzer) und Art der Nutzung (effektive Nutzer, informationsorientierte Nutzer und schnelle Nutzung). Diese Kriterien haben wir den jeweiligen Rollen zugeordnet. Durch die Verknüpfung in einem ungerichteten Graphen sind wir zu der Nutzerklassifizierung gekommen. Die Nutzerklassen werden wir im folgenden erläutern.
 \begin{figure}[ht]
 \begin{center}
 \includegraphics[width = 0.8\textwidth]{Nutzerrollen.png}
-\caption{Nutzerrollen in Form eines Netzes dargestellt}
+\caption{Nutzerrollen mit einer Bewertung anhand von Kriterien}
 \label{img1:userRoles}
 \end{center}
 \end{figure} 
+
 \subsection{Lösungsorientierte Nutzer}
+Der lösungsorientierte Nutzer möchte schnell die Lösung zu seinem aktuellen Problem haben. Er möchte sich nicht lange mit Online-Hilfesystemen oder langen Suchen beschäftigen. Zu dieser Gruppe gehören vor allem die Gelegenheitsnutzer. Diese verwenden die Software selten und sind deshalb wenig angetan, wenn sie lange in einem bestimmten Problem stecken. Ihnen muss schnell geholfen werden, so dass kein Frust beim Verwenden der Software aufkommt. Hier läuft die Lösung nach dem Prinzip ab, dass ein Problem beim Verwenden der Software auftritt und schnellstmöglich eine Lösung her muss. 
 \subsection{Powernutzer}
-\subsection{Gelegenheitsnutzer}
-Kurze Erklärung der Klassifizierung und Herleitung der Ziele der einzelnen Nutzer
-\label{ch:Content1:sec:Section2}
-%% ===========================
+Diese Nutzergruppe verwendet die Software meist jeden Tag und dies mehrere Stunden täglich. Dies bedeutet es müssen sehr viele Inhalte gelernt werden. Wenn möglich in möglichst kurzer Zeit. Dies erfordert ein Lernen von mehreren Wegen zur Lösung des Problems. Für diese Art von Nutzern zählt eine effektive Nutzung der Software. Die Lerninhalte müssen somit möglichst umfassend sein und entsprechend aufbereitet werden. 
+\subsection{Studenten}
+Die Studenten erhalten bei uns eine extra Klasse. Sie setzen die Software sehr sporadisch ein und möchten nicht viel neue Inhalte lernen, da sie schon mit anderen Themen ihres Studiums sehr beschäftigt sind. Wenn sie die Software verwenden, dann möchten sie nicht viel neue Inhalte lernen. Wenn überhaupt, dann mit Spaß verbunden. Sie benötigen somit eine extra Motivation um neue Inhalte der Software zu lernen. Weiterhin schwierig bei dieser Nutzergruppe ist die Diversität der Nutzertypen. Dies bedeutet, dass viele verschiedene Fachbereiche, von sehr technisch versierten Leuten wie Ingenieursstudiengänge bis stark intellektuelle Studiengänge wie Germanistik oder Jura bedient werden müssen. Diese starke Diversität veranlasst uns die Gruppe der Studenten als extra Klasse zu betrachten. 
+
 
 
 
