@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Kriterienbaum.svg"
-   inkscape:export-filename="D:\Projekte\tgl\figures\Kriterienbaum.png"
+   inkscape:export-filename="C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\figures\Kriterienbaum.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -32,7 +32,7 @@
      inkscape:cx="413.06114"
      inkscape:cy="538.4692"
      inkscape:document-units="px"
-     inkscape:current-layer="g4216"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -199,13 +199,11 @@
            sodipodi:role="line">Datenschutz</tspan></text>
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 386.42857,331.6479 223.47511,414.1063"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.70108151px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 342.2129,358.65393 -118.80784,55.5892"
        id="path4538"
        inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-start="#g4412"
-       inkscape:connection-end="#g4412-1" />
+       inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 213.28294,463.15228 80.76923,62.31336"
