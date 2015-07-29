@@ -1,9 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2015.5.3)  13 JUL 2015 16:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.3)  21 JUL 2015 22:32
 entering extended mode
 **thesis.tex
-
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\thesis.
-tex"
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\thesis.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -15,9 +13,8 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\thesisc
-lass.cls"
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\thesisclass.cls
+"
 Document Class: thesisclass 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\scrbook.cls"
 Document Class: scrbook 2015/05/06 v3.17a KOMA-Script document class (book)
@@ -382,26 +379,12 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-
-! Package pdftex.def Error: PDF mode expected, but DVI mode detected!
-(pdftex.def)                If you are using `latex', then call `pdflatex'.
-(pdftex.def)                Otherwise check and correct the driver options.
-(pdftex.def)                Error recovery by switching to PDF mode.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.433   }\@ehc
-              
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 \Gread@gobject=\count89
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ieeepes\vmargin.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ieeepes\vmargin.sty"
 Package: vmargin 1999/06/01
 
 Package `vmargin', V2.2, <1999/06/01>
@@ -951,28 +934,27 @@ Package: apacite 2013/07/21 v6.03 APA citation
 \chapparlen=\skip72
 \chapno=\box42
 )
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\thesis.
-aux"
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\titlepa
-ge.aux")
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\text/in
-troduction.aux")
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\text/co
-ntent.aux"))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 118.
-LaTeX Font Info:    ... okay on input line 118.
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\thesis.aux"
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\titlepage.aux")
+
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\text/introducti
+on.aux")
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\text/content.au
+x"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count132
@@ -988,7 +970,7 @@ LaTeX Font Info:    ... okay on input line 118.
 \everyMPtoPDFconversion=\toks34
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box44
-Package hyperref Info: Link coloring OFF on input line 118.
+Package hyperref Info: Link coloring OFF on input line 114.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -998,14 +980,12 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count138
 )
-LaTeX Info: Redefining \ref on input line 118.
-LaTeX Info: Redefining \pageref on input line 118.
-LaTeX Info: Redefining \nameref on input line 118.
+LaTeX Info: Redefining \ref on input line 114.
+LaTeX Info: Redefining \pageref on input line 114.
+LaTeX Info: Redefining \nameref on input line 114.
 
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\thesis.
-out")
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\thesis.
-out")
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\thesis.out")
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\thesis.out")
 \@outlinefile=\write4
 
 babelbib: Set bibliography fall-back language to ngerman
@@ -1036,15 +1016,15 @@ File: german.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 142.
 LaTeX Info: Redefining \BHBI on input line 143.
 ))
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\titlepa
-ge.tex" <logos/KITLogo_DE_RGB.pdf, id=114, 197.73875pt x 91.34125pt>
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\titlepage.tex"
+<logos/KITLogo_DE_RGB.pdf, id=138, 197.73875pt x 91.34125pt>
 File: logos/KITLogo_DE_RGB.pdf Graphic file (type pdf)
 
 <use logos/KITLogo_DE_RGB.pdf>
 Package pdftex.def Info: logos/KITLogo_DE_RGB.pdf used on input line 16.
 (pdftex.def)             Requested size: 112.15387pt x 51.8072pt.
 
-<logos/FZI_Logo.png, id=115, 100.375pt x 171.64125pt>
+<logos/FZI_Logo.png, id=139, 100.375pt x 171.64125pt>
 File: logos/FZI_Logo.png Graphic file (type png)
  <use logos/FZI_Logo.png>
 Package pdftex.def Info: logos/FZI_Logo.png used on input line 19.
@@ -1068,13 +1048,12 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Dane/OneDrive/KI
-T/Technologiegestütztes Lernen/Ausarbeitung/logos/KITLogo_DE_RGB.pdf> <C:/User
-s/Dane/OneDrive/KIT/Technologiegestütztes Lernen/Ausarbeitung/logos/FZI_Logo.p
-ng>])
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\thesis.
-toc"
+T/Technologiegestütztes Lernen/Repo/logos/KITLogo_DE_RGB.pdf> <C:/Users/Dane/O
+neDrive/KIT/Technologiegestütztes Lernen/Repo/logos/FZI_Logo.png>])
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\thesis.toc"
 LaTeX Font Info:    Try loading font information for T1+aess on input line 1.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aess.fd"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aess.fd"
 File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1083,14 +1062,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
-)
-\tf@toc=\write5
  [2
 
 
+])
+\tf@toc=\write5
+ [3] [4
+
+
 ]
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\text/in
-troduction.tex"
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\text/introducti
+on.tex"
 Kapitel 1.
 
 Class scrbook Warning: \float@addtolists detected!
@@ -1107,101 +1089,112 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              a package that still implements the
 (scrbook)              deprecated \float@addtolist interface .
 
-<./figures/google.png, id=164, 276.03125pt x 95.35625pt>
-File: ./figures/google.png Graphic file (type png)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 16.
+<./figures/casCampus.png, id=206, 251.43938pt x 158.09062pt>
+File: ./figures/casCampus.png Graphic file (type png)
 
-<use ./figures/google.png>
-Package pdftex.def Info: ./figures/google.png used on input line 12.
-(pdftex.def)             Requested size: 213.71576pt x 73.83192pt.
-) [1
+<use ./figures/casCampus.png>
+Package pdftex.def Info: ./figures/casCampus.png used on input line 19.
+(pdftex.def)             Requested size: 213.71576pt x 134.37282pt.
+ [1
 
 
-
-
- <C:/Users/Dane/OneDrive/KIT/Technologiegestütztes Lernen/Ausarbeitung/figures
-/google.png>]
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\text/co
-ntent.tex"
+]) [2 <C:/Users/Dane/OneDrive/KIT/Technologiegestütztes Lernen/Repo/figures/ca
+sCampus.png>]
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\text/content.te
+x"
 Kapitel 2.
-[2
-
-
-
-]
-Kapitel 3.
 [3
 
-]
-Kapitel 4.
-[4
 
-]
-Kapitel 5.
+
+] [4]
+Kapitel 3.
 [5
 
 ]
+Kapitel 4.
+[6
+
+]
+Kapitel 5.
+[7
+
+]
 Kapitel 6.
-) [6
+[8
 
 ]
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\thesis.
-bbl"
-LaTeX Font Info:    Try loading font information for T1+aett on input line 30.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aett.fd"
+Kapitel 7.
+[9
+
+]
+Kapitel 8.
+) [10
+
+]
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\thesis.bbl"
+LaTeX Font Info:    Try loading font information for T1+aett on input line 47.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aett.fd"
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
-))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 179.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 179.
- [7
+)) [11
 
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
 
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\thesis.
-aux"
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\titlepa
-ge.aux")
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\text/in
-troduction.aux")
-("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Ausarbeitung\text/co
-ntent.aux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\thesis.aux"
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\titlepage.aux")
+
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\text/introducti
+on.aux")
+("C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\text/content.au
+x"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 1D09B180BCC564E6BB71991B5711BEC3;1771.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
+(rerunfilecheck)             Checksum: 23E8CC4A1F9D37F177A2CC492D482346;2142.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  ) 
 Here is how much of TeX's memory you used:
- 19053 strings out of 493922
- 350956 string characters out of 3144903
- 477278 words of memory out of 3000000
- 21873 multiletter control sequences out of 15000+200000
+ 19078 strings out of 493921
+ 351068 string characters out of 3144880
+ 478325 words of memory out of 3000000
+ 21883 multiletter control sequences out of 15000+200000
  50407 words of font info for 88 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 71i,11n,62p,424b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
+ 71i,11n,62p,1120b,528s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
 st, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
 
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/urw/palatino/uplr8a.pfb>
-Output written on thesis.pdf (9 pages, 202889 bytes).
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/urw/palatino/uplr8a.pfb>
+Output written on thesis.pdf (15 pages, 327236 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 244 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 327 PDF objects out of 1000 (max. 8388607)
+ 56 named destinations out of 1000 (max. 500000)
+ 292 words of extra memory for PDF output out of 10000 (max. 10000000)
 

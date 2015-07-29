@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Kriterienbaum.svg"
-   inkscape:export-filename="D:\Projekte\tgl\figures\Kriterienbaum.png"
+   inkscape:export-filename="C:\Users\Dane\OneDrive\KIT\Technologiegestütztes Lernen\Repo\figures\Kriterienbaum.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,15 +28,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="68.568573"
-     inkscape:cy="612.71989"
+     inkscape:zoom="1.4"
+     inkscape:cx="413.06114"
+     inkscape:cy="538.4692"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="987"
-     inkscape:window-x="1672"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="2152"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -87,31 +87,24 @@
        id="g4412"
        transform="translate(191.42857,27.142862)">
       <ellipse
-         ry="36.428574"
-         rx="72.857147"
-         cy="304.50504"
-         cx="195"
+         ry="36.07143"
+         rx="147.14287"
+         cy="297.00504"
+         cx="195.71428"
          id="path4404"
-         style="fill:#cccccc" />
-      <ellipse
-         ry="10"
-         rx="7.1428571"
-         cy="309.50507"
-         cx="175"
-         id="path4406"
-         style="fill:#cccccc" />
+         style="opacity:0.50499998;fill:#cccccc" />
       <text
          transform="scale(0.87740509,1.1397244)"
          sodipodi:linespacing="125%"
          id="text4408"
-         y="274.76971"
-         x="161.20142"
+         y="268.50253"
+         x="76.536171"
          style="font-style:normal;font-weight:normal;font-size:29.20464325px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="274.76971"
-           x="161.20142"
+           y="268.50253"
+           x="76.536171"
            id="tspan4410"
-           sodipodi:role="line">Kriterien</tspan></text>
+           sodipodi:role="line">Bewertungskriterien</tspan></text>
     </g>
     <g
        id="g4412-1"
@@ -122,14 +115,7 @@
          cy="304.50504"
          cx="195"
          id="path4404-8"
-         style="fill:#cccccc" />
-      <ellipse
-         ry="10"
-         rx="7.1428571"
-         cy="309.50507"
-         cx="175"
-         id="path4406-9"
-         style="fill:#cccccc" />
+         style="fill:#cccccc;opacity:0.5" />
       <text
          transform="scale(0.88253543,1.133099)"
          sodipodi:linespacing="125%"
@@ -152,14 +138,7 @@
          cy="304.50504"
          cx="195"
          id="path4404-8-4"
-         style="fill:#cccccc" />
-      <ellipse
-         ry="10"
-         rx="7.1428571"
-         cy="309.50507"
-         cx="175"
-         id="path4406-9-7"
-         style="fill:#cccccc" />
+         style="fill:#cccccc;opacity:0.498" />
       <text
          transform="scale(0.81043186,1.23391)"
          sodipodi:linespacing="125%"
@@ -182,14 +161,7 @@
          cy="304.50504"
          cx="195"
          id="path4404-8-4-2"
-         style="fill:#cccccc" />
-      <ellipse
-         ry="10"
-         rx="7.1428571"
-         cy="309.50507"
-         cx="175"
-         id="path4406-9-7-5"
-         style="fill:#cccccc" />
+         style="fill:#cccccc;opacity:0.5" />
       <text
          transform="scale(0.93963431,1.0642438)"
          sodipodi:linespacing="125%"
@@ -212,35 +184,26 @@
          cy="304.50504"
          cx="195"
          id="path4404-8-4-2-8"
-         style="fill:#cccccc" />
-      <ellipse
-         ry="10"
-         rx="7.1428571"
-         cy="309.50507"
-         cx="175"
-         id="path4406-9-7-5-9"
-         style="fill:#cccccc" />
+         style="fill:#cccccc;opacity:0.505" />
       <text
-         transform="scale(0.65686801,1.5223758)"
+         transform="scale(0.72802904,1.3735716)"
          sodipodi:linespacing="125%"
          id="text4408-0-0-7-3"
-         y="209.10512"
-         x="204.0863"
-         style="font-style:normal;font-weight:normal;font-size:28.64248466px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         y="229.27194"
+         x="184.21365"
+         style="font-style:normal;font-weight:normal;font-size:25.067379px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="209.10512"
-           x="204.0863"
+           y="229.27194"
+           x="184.21365"
            id="tspan4410-0-7-2-9"
            sodipodi:role="line">Datenschutz</tspan></text>
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 335.22117,357.56009 223.47511,414.1063"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.70108151px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 342.2129,358.65393 -118.80784,55.5892"
        id="path4538"
        inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:connection-start="#g4412"
-       inkscape:connection-end="#g4412-1" />
+       inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 213.28294,463.15228 80.76923,62.31336"
@@ -274,14 +237,7 @@
          cy="304.50504"
          cx="218.66829"
          id="path4404-8-1"
-         style="fill:#cccccc" />
-      <ellipse
-         ry="10"
-         rx="7.1428571"
-         cy="309.50507"
-         cx="175"
-         id="path4406-9-8"
-         style="fill:#cccccc" />
+         style="fill:#cccccc;opacity:0.5" />
       <text
          transform="scale(0.74720136,1.3383273)"
          sodipodi:linespacing="125%"
@@ -297,67 +253,53 @@
     </g>
     <g
        id="g4412-1-6-7-7-4"
-       transform="matrix(0.68627453,0,0,0.80392158,551.89075,305.42118)">
+       transform="matrix(0.68627453,0,0,0.80392158,472.60504,307.56404)">
       <ellipse
          ry="36.428574"
          rx="72.857147"
          cy="304.50504"
          cx="195"
          id="path4404-8-4-2-8-2"
-         style="fill:#cccccc" />
-      <ellipse
-         ry="10"
-         rx="7.1428571"
-         cy="309.50507"
-         cx="175"
-         id="path4406-9-7-5-9-2"
-         style="fill:#cccccc" />
+         style="opacity:0.50199998;fill:#cccccc" />
       <text
-         transform="scale(0.87856503,1.1382197)"
+         transform="scale(0.97291417,1.0278399)"
          sodipodi:linespacing="125%"
          id="text4408-0-0-7-3-6"
-         y="279.67938"
-         x="150.89607"
-         style="font-style:normal;font-weight:normal;font-size:38.30949783px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         y="303.82178"
+         x="147.22632"
+         style="font-style:normal;font-weight:normal;font-size:31.94113541px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="279.67938"
-           x="150.89607"
+           y="303.82178"
+           x="147.22632"
            id="tspan4410-0-7-2-9-5"
            sodipodi:role="line">Kosten</tspan></text>
     </g>
     <g
        id="g4412-1-6-7-7-4-2"
-       transform="matrix(1.2647059,0,0,0.80392158,264.81093,311.13547)">
+       transform="matrix(1.2647059,0,0,0.80392158,252.66807,311.13547)">
       <ellipse
          ry="36.428574"
-         rx="72.857147"
-         cy="304.50504"
-         cx="195"
+         rx="44.617947"
+         cy="293.84302"
+         cx="163.93687"
          id="path4404-8-4-2-8-2-9"
-         style="fill:#cccccc" />
-      <ellipse
-         ry="10"
-         rx="7.1428571"
-         cy="309.50507"
-         cx="175"
-         id="path4406-9-7-5-9-2-4"
-         style="fill:#cccccc" />
+         style="opacity:0.5;fill:#cccccc" />
       <text
-         transform="scale(0.69370992,1.4415247)"
+         transform="scale(0.78564488,1.2728397)"
          sodipodi:linespacing="125%"
          id="text4408-0-0-7-3-6-2"
-         y="217.27957"
-         x="199.82349"
-         style="font-style:normal;font-weight:normal;font-size:20.7040844px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         y="234.90611"
+         x="166.59045"
+         style="font-style:normal;font-weight:normal;font-size:23.44792366px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           y="217.27957"
-           x="199.82349"
+           y="234.90611"
+           x="166.59045"
            id="tspan4410-0-7-2-9-5-5"
-           sodipodi:role="line">Realisierbarkeit</tspan></text>
+           sodipodi:role="line">Nutzen</tspan></text>
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 433.19466,359.5807 81.88689,48.91002"
+       d="m 431.45939,358.54424 83.62216,49.94648"
        id="path3575"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
@@ -365,28 +307,81 @@
        inkscape:connection-end="#g4412-1-5" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 658.92079,525.4936 -62.6924,-57.85421"
+       d="M 595.72976,523.75534 575.1193,468.64636"
        id="path3579"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
        inkscape:connection-start="#g4412-1-6-7-7-4"
        inkscape:connection-end="#g4412-1-5" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.55209279px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 545.07507,467.27124 529.8388,527.06145"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.54881352px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 497.933,461.55695 -15.23785,59.07593"
        id="path3581"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="135.71428"
-       y="242.36221"
-       id="text3583"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3585"
-         x="135.71428"
-         y="242.36221">Kriterien zur Bewertung</tspan></text>
+    <g
+       id="g4412-1-6-7-7-4-3"
+       transform="matrix(0.68627453,0,0,0.80392158,355.46218,423.27833)">
+      <g
+         id="g4216"
+         transform="translate(-112.40816,1.7770035)">
+        <ellipse
+           style="opacity:0.5;fill:#cccccc"
+           id="path4404-8-4-2-8-2-1"
+           cx="238.71428"
+           cy="303.17227"
+           rx="116.57143"
+           ry="37.761326" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:28.68751717px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="168.65182"
+           y="272.52423"
+           id="text4408-0-0-7-3-6-6"
+           sodipodi:linespacing="125%"
+           transform="scale(0.87927487,1.1373008)"><tspan
+             sodipodi:role="line"
+             id="tspan4410-0-7-2-9-5-7"
+             x="168.65182"
+             y="272.52423">Anfangskosten</tspan></text>
+      </g>
+      <g
+         id="g4216-9"
+         transform="matrix(1.067085,0,0,0.99425704,203.07007,8.6164056)">
+        <ellipse
+           style="opacity:0.5;fill:#cccccc"
+           id="path4404-8-4-2-8-2-1-3"
+           cx="198.72359"
+           cy="304.95953"
+           rx="116.57143"
+           ry="37.761326" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:30.19861603px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="106.81429"
+           y="275.99527"
+           id="text4408-0-0-7-3-6-6-9"
+           sodipodi:linespacing="125%"
+           transform="scale(0.87643871,1.1409811)"><tspan
+             sodipodi:role="line"
+             id="tspan4410-0-7-2-9-5-7-2"
+             x="106.81429"
+             y="275.99527">Wartungskosten</tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99822223px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 115.51697,179.44108 -28.130525,262.45515"
+           id="path4249"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.34630728px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 163.41042,188.98804 23.87043,78.39257"
+           id="path4251"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0"
+           inkscape:connection-start="#g4412-1-6-7-7-4"
+           inkscape:connection-end="#path4404-8-4-2-8-2-1-3" />
+      </g>
+    </g>
   </g>
 </svg>
