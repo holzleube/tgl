@@ -1,27 +1,63 @@
 \BOOKMARK [0][]{Inhaltsverzeichnis.0}{Inhaltsverzeichnis}{}% 1
 \BOOKMARK [0][]{chapter.1}{1 Einleitung}{}% 2
 \BOOKMARK [1][-]{section.1.1}{1.1 CAS Campus}{chapter.1}% 3
-\BOOKMARK [0][]{chapter.2}{2 Grundlagen}{}% 4
-\BOOKMARK [1][-]{section.2.1}{2.1 Adaption}{chapter.2}% 5
-\BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 Adaption auf den Nutzer}{section.2.1}% 6
-\BOOKMARK [1][-]{section.2.2}{2.2 Gamification}{chapter.2}% 7
-\BOOKMARK [1][-]{section.2.3}{2.3 Problembasiertes Lernen}{chapter.2}% 8
-\BOOKMARK [1][-]{section.2.4}{2.4 Recommendersysteme}{chapter.2}% 9
-\BOOKMARK [0][]{chapter.3}{3 Nutzer}{}% 10
-\BOOKMARK [1][-]{section.3.1}{3.1 Nutzerrollen}{chapter.3}% 11
-\BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 Professoren}{section.3.1}% 12
-\BOOKMARK [2][-]{subsection.3.1.2}{3.1.2 Studenten}{section.3.1}% 13
-\BOOKMARK [2][-]{subsection.3.1.3}{3.1.3 Studierendensekretariat}{section.3.1}% 14
-\BOOKMARK [2][-]{subsection.3.1.4}{3.1.4 Admins}{section.3.1}% 15
-\BOOKMARK [1][-]{section.3.2}{3.2 Nutzer Klassifizierung}{chapter.3}% 16
-\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 L\366sungsorientierte Nutzer}{section.3.2}% 17
-\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Powernutzer}{section.3.2}% 18
-\BOOKMARK [2][-]{subsection.3.2.3}{3.2.3 Gelegenheitsnutzer}{section.3.2}% 19
-\BOOKMARK [0][]{chapter.4}{4 L\366sungsans\344tze}{}% 20
-\BOOKMARK [1][-]{section.4.1}{4.1 Klassische Online-Hilfe}{chapter.4}% 21
-\BOOKMARK [1][-]{section.4.2}{4.2 Lernspiel-App}{chapter.4}% 22
-\BOOKMARK [1][-]{section.4.3}{4.3 Expertensystem}{chapter.4}% 23
-\BOOKMARK [0][]{chapter.5}{5 Empfehlung}{}% 24
-\BOOKMARK [0][]{chapter.6}{6 Zusammenfassung mit Fazit}{}% 25
-\BOOKMARK [0][]{section*.2}{Literaturverzeichnis}{}% 26
-\BOOKMARK [1][-]{section*.3}{Literatur}{section*.2}% 27
+\BOOKMARK [1][-]{section.1.2}{1.2 Motivation}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.3}{1.3 Weiteres Vorgehen}{chapter.1}% 5
+\BOOKMARK [0][]{chapter.2}{2 Stand der Forschung}{}% 6
+\BOOKMARK [1][-]{section.2.1}{2.1 Lernen}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 Problembasiertes Lernen}{section.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.1.2}{2.1.2 Differenzielles Lernen}{section.2.1}% 9
+\BOOKMARK [1][-]{section.2.2}{2.2 Game-Based Learning}{chapter.2}% 10
+\BOOKMARK [0][]{chapter.3}{3 Grundlagen}{}% 11
+\BOOKMARK [1][-]{section.3.1}{3.1 Online-Lernhilfe}{chapter.3}% 12
+\BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 Begriffsdefinition}{section.3.1}% 13
+\BOOKMARK [2][-]{subsection.3.1.2}{3.1.2 Verwendung in der Arbeit}{section.3.1}% 14
+\BOOKMARK [1][-]{section.3.2}{3.2 Adaption}{chapter.3}% 15
+\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 Begriffserl\344uterung}{section.3.2}% 16
+\BOOKMARK [1][-]{section.3.3}{3.3 Adaption an den Nutzer}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.4}{3.4 Gamification}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 Definition}{section.3.4}% 19
+\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 Verwendung in unserer Arbeit}{section.3.4}% 20
+\BOOKMARK [1][-]{section.3.5}{3.5 Recommendersysteme}{chapter.3}% 21
+\BOOKMARK [2][-]{subsection.3.5.1}{3.5.1 Begriffserl\344uterung}{section.3.5}% 22
+\BOOKMARK [2][-]{subsection.3.5.2}{3.5.2 Verwendung in unserer Arbeit}{section.3.5}% 23
+\BOOKMARK [1][-]{section.3.6}{3.6 Personas}{chapter.3}% 24
+\BOOKMARK [2][-]{subsection.3.6.1}{3.6.1 Begriffserl\344uterung}{section.3.6}% 25
+\BOOKMARK [2][-]{subsection.3.6.2}{3.6.2 Verwendung in unserer Arbeit}{section.3.6}% 26
+\BOOKMARK [0][]{chapter.4}{4 Nutzer}{}% 27
+\BOOKMARK [1][-]{section.4.1}{4.1 Nutzerrollen}{chapter.4}% 28
+\BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Professoren}{section.4.1}% 29
+\BOOKMARK [2][-]{subsection.4.1.2}{4.1.2 Studenten}{section.4.1}% 30
+\BOOKMARK [2][-]{subsection.4.1.3}{4.1.3 Studierendensekretariat}{section.4.1}% 31
+\BOOKMARK [2][-]{subsection.4.1.4}{4.1.4 Studiengangsbearbeiter}{section.4.1}% 32
+\BOOKMARK [2][-]{subsection.4.1.5}{4.1.5 Admins}{section.4.1}% 33
+\BOOKMARK [1][-]{section.4.2}{4.2 Nutzer Klassifizierung}{chapter.4}% 34
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Powernutzer}{section.4.2}% 35
+\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 Gelegenheitsnutzer}{section.4.2}% 36
+\BOOKMARK [2][-]{subsection.4.2.3}{4.2.3 Spezielle Nutzer}{section.4.2}% 37
+\BOOKMARK [0][]{chapter.5}{5 L\366sungsans\344tze}{}% 38
+\BOOKMARK [1][-]{section.5.1}{5.1 Bewertungskriterien}{chapter.5}% 39
+\BOOKMARK [2][-]{subsection.5.1.1}{5.1.1 Begr\374ndung der Kriterien}{section.5.1}% 40
+\BOOKMARK [2][-]{subsection.5.1.2}{5.1.2 Wirtschaftlich}{section.5.1}% 41
+\BOOKMARK [3][-]{subsubsection.5.1.2.1}{5.1.2.1 Anfangskosten}{subsection.5.1.2}% 42
+\BOOKMARK [3][-]{subsubsection.5.1.2.2}{5.1.2.2 Wartungskosten}{subsection.5.1.2}% 43
+\BOOKMARK [3][-]{subsubsection.5.1.2.3}{5.1.2.3 Nutzen}{subsection.5.1.2}% 44
+\BOOKMARK [2][-]{subsection.5.1.3}{5.1.3 Technisch}{section.5.1}% 45
+\BOOKMARK [3][-]{subsubsection.5.1.3.1}{5.1.3.1 Wartbarkeit}{subsection.5.1.3}% 46
+\BOOKMARK [3][-]{subsubsection.5.1.3.2}{5.1.3.2 Datenschutz}{subsection.5.1.3}% 47
+\BOOKMARK [3][-]{subsubsection.5.1.3.3}{5.1.3.3 Usability}{subsection.5.1.3}% 48
+\BOOKMARK [1][-]{section.5.2}{5.2 Klassische Hilfe}{chapter.5}% 49
+\BOOKMARK [2][-]{subsection.5.2.1}{5.2.1 Erl\344uterung}{section.5.2}% 50
+\BOOKMARK [1][-]{section.5.3}{5.3 Lernspiel-App}{chapter.5}% 51
+\BOOKMARK [2][-]{subsection.5.3.1}{5.3.1 App}{section.5.3}% 52
+\BOOKMARK [2][-]{subsection.5.3.2}{5.3.2 Lernspiel}{section.5.3}% 53
+\BOOKMARK [2][-]{subsection.5.3.3}{5.3.3 L\366sungsansatz}{section.5.3}% 54
+\BOOKMARK [1][-]{section.5.4}{5.4 Expertensystem}{chapter.5}% 55
+\BOOKMARK [0][]{chapter.6}{6 Empfehlung}{}% 56
+\BOOKMARK [1][-]{section.6.1}{6.1 Bewertung der L\366sungsans\344tze anhand der aufgestellten Nutzerklassen}{chapter.6}% 57
+\BOOKMARK [1][-]{section.6.2}{6.2 Bewertung der L\366sungsans\344tze anhand der aufgestellten Kriterien}{chapter.6}% 58
+\BOOKMARK [1][-]{section.6.3}{6.3 Konkrete Empfehlung}{chapter.6}% 59
+\BOOKMARK [0][]{chapter.7}{7 Zusammenfassung}{}% 60
+\BOOKMARK [0][]{chapter.8}{8 Ausblick}{}% 61
+\BOOKMARK [0][]{section*.2}{Literaturverzeichnis}{}% 62
+\BOOKMARK [1][-]{section*.3}{Literatur}{section*.2}% 63

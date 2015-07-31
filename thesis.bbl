@@ -1,0 +1,232 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {recommender}}{%
+\APACcitebtitle {recommender}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+recommender}
+\APACinsertmetastar {%
+recommender}%
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bendel%
+}{%
+Bendel%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+gamification}
+\APACinsertmetastar {%
+gamification}%
+\begin{APACrefauthors}%
+Bendel, P\BPBI D\BPBI O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Gamification} {Gamification}.{\BBCQ}
+\newblock
+\begin{APACrefURL}
+  \url{http://wirtschaftslexikon.gabler.de/Archiv/688938796/gamification-v4.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bunse%
+}{%
+Bunse%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+vorgehensmodelle}
+\APACinsertmetastar {%
+vorgehensmodelle}%
+\begin{APACrefauthors}%
+Bunse, v\BPBI K\BPBI A., C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{{\protect \bibnodate {}}}.
+\newblock
+\APACrefbtitle {Vorgehensmodelle kompakt} {Vorgehensmodelle kompakt}.
+\newblock
+\APACaddressPublisher{}{Spektrum Akademischer Verlag}.
+\newblock
+\begin{APACrefURL} \url{https://books.google.de/books?id=X47DrRaHJNkC}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Duden%
+}{%
+Duden%
+}{%
+{\protect \APACyear {Zugriff am 20.07.2015}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+adaptieren}
+\APACinsertmetastar {%
+adaptieren}%
+\begin{APACrefauthors}%
+Duden.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{Zugriff am 20.07.2015{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {adaptieren} {adaptieren}.{\BBCQ}
+\newblock
+\begin{APACrefURL} \url{http://www.duden.de/node/687662/revisions/1384857/view}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Duden%
+}{%
+Duden%
+}{%
+{\protect \APACyear {Zugriff am 20.07.2015}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+lernhilfe}
+\APACinsertmetastar {%
+lernhilfe}%
+\begin{APACrefauthors}%
+Duden.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{Zugriff am 20.07.2015{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Lernhilfe} {Lernhilfe}.{\BBCQ}
+\newblock
+\begin{APACrefURL} \url{http://www.duden.de/node/733105/revisions/1232018/view}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Duden%
+}{%
+Duden%
+}{%
+{\protect \APACyear {Zugriff am 20.07.2015}}%
+{\protect \APACexlab {{\protect \BCnt {3}}}}}]{%
+onlinehilfe}
+\APACinsertmetastar {%
+onlinehilfe}%
+\begin{APACrefauthors}%
+Duden.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{Zugriff am 20.07.2015{\protect \BCnt {3}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Onlinehilfe} {Onlinehilfe}.{\BBCQ}
+\newblock
+\begin{APACrefURL} \url{http://www.duden.de/node/769414/revisions/1344323/view}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hummel%
+}{%
+Hummel%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+aufwand}
+\APACinsertmetastar {%
+aufwand}%
+\begin{APACrefauthors}%
+Hummel, O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2011}.
+\newblock
+\APACrefbtitle {Aufwandsschätzungen in der Software- und Systementwicklung
+  kompakt} {Aufwandsschätzungen in der software- und systementwicklung
+  kompakt}\ (\BVOL\ 1.Hrsg.).
+\newblock
+\APACaddressPublisher{}{Spektrum Akademischer Verlag}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+onlinemarketing praxis.de%
+}{%
+onlinemarketing praxis.de%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+personas}
+\APACinsertmetastar {%
+personas}%
+\begin{APACrefauthors}%
+onlinemarketing praxis.de.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {onlinemarketing praxis - Personas} {onlinemarketing
+  praxis - personas}.{\BBCQ}
+\newblock
+\begin{APACrefURL} \url{http://www.onlinemarketing-praxis.de/glossar/personas
+  Zugriff am 20.07.2015} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wolfgang I.~Schöllhorn%
+}{%
+Wolfgang I.~Schöllhorn%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+differenziellesLernen}
+\APACinsertmetastar {%
+differenziellesLernen}%
+\begin{APACrefauthors}%
+Wolfgang I.~Schöllhorn, D\BPBI J\BPBI M\BPBI M., Hendrik~Beckmann.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{Februar}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Differenzielles Lehren und Lernen im Sport}
+  {Differenzielles lehren und lernen im sport}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{Zugriff am 16.07.2015}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.hofmann-verlag.de/project/zsarchiv/archiv/sportunterricht/2009/sportunterricht-Ausgabe-Februar-2009.pdf#page=6}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zumbach%
+}{%
+Zumbach%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+problembasiertes}
+\APACinsertmetastar {%
+problembasiertes}%
+\begin{APACrefauthors}%
+Zumbach, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{{\protect \bibnodate {}}}.
+\newblock
+\APACrefbtitle {Problembasiertes Lernen} {Problembasiertes lernen}.
+\newblock
+\APACaddressPublisher{}{Waxmann Verlag}.
+\newblock
+\begin{APACrefURL} \url{https://books.google.de/books?id=X47DrRaHJNkC}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
