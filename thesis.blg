@@ -4,6 +4,11 @@ A level-1 auxiliary file: text/introduction.aux
 A level-1 auxiliary file: text/content.aux
 The style file: apacite.bst
 Database file #1: thesis.bib
+I was expecting a `,' or a `}'---line 14 of file thesis.bib
+ :   
+ :   publisher={Spektrum Akademischer Verlag}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "softQuali"
 Warning--I didn't find a database entry for "usability"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
@@ -45,10 +50,6 @@ ptr=1, stack=
 ---the literal stack isn't empty for entry recommender
 while executing---line 5079 of file apacite.bst
 Warning--No journal in gamification
-ptr=1, stack=
-
----the literal stack isn't empty for entry gamification
-while executing---line 5079 of file apacite.bst
 Too many commas in name 1 of "Bunse, C., von Knethen, A." for entry vorgehensmodelle
 while executing---line 5079 of file apacite.bst
 Too many commas in name 1 of "Bunse, C., von Knethen, A." for entry vorgehensmodelle
@@ -56,25 +57,13 @@ while executing---line 5079 of file apacite.bst
 Too many commas in name 1 of "Bunse, C., von Knethen, A." for entry vorgehensmodelle
 while executing---line 5079 of file apacite.bst
 Warning--No journal in adaptieren
-ptr=1, stack=
-
----the literal stack isn't empty for entry adaptieren
-while executing---line 5079 of file apacite.bst
+Warning--No journal in deskriptor
 Warning--No journal in lernhilfe
-ptr=1, stack=
-
----the literal stack isn't empty for entry lernhilfe
-while executing---line 5079 of file apacite.bst
 Warning--No journal in onlinehilfe
-ptr=1, stack=
-
----the literal stack isn't empty for entry onlinehilfe
-while executing---line 5079 of file apacite.bst
+Warning--No journal in dinNorm
+Warning--No journal in indexierung
+Warning--No journal in lernen
 Warning--No journal in personas
-ptr=1, stack=
-
----the literal stack isn't empty for entry personas
-while executing---line 5079 of file apacite.bst
 Too many commas in name 1 of "Wolfgang I. Schöllhorn, Hendrik Beckmann, Daniel Janssen, Maren Michelbrink" for entry differenziellesLernen
 while executing---line 5079 of file apacite.bst
 Too many commas in name 1 of "Wolfgang I. Schöllhorn, Hendrik Beckmann, Daniel Janssen, Maren Michelbrink" for entry differenziellesLernen
@@ -82,4 +71,4 @@ while executing---line 5079 of file apacite.bst
 Too many commas in name 1 of "Wolfgang I. Schöllhorn, Hendrik Beckmann, Daniel Janssen, Maren Michelbrink" for entry differenziellesLernen
 while executing---line 5079 of file apacite.bst
 Warning--No journal in differenziellesLernen
-(There were 28 error messages)
+(There were 24 error messages)

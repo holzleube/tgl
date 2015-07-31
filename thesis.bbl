@@ -30,6 +30,8 @@ Bendel, P\BPBI D\BPBI O.%
 \newblock
 {\BBOQ}\APACrefatitle {Gamification} {Gamification}.{\BBCQ}
 \newblock
+\APACjournalVolNumPages{}{}{}{Abruf am 16.07.2015}.
+\newblock
 \begin{APACrefURL}
   \url{http://wirtschaftslexikon.gabler.de/Archiv/688938796/gamification-v4.html}
   \end{APACrefURL}
@@ -52,12 +54,8 @@ Bunse, v\BPBI K\BPBI A., C.%
 \newblock
 \APACrefYear{{\protect \bibnodate {}}}.
 \newblock
-\APACrefbtitle {Vorgehensmodelle kompakt} {Vorgehensmodelle kompakt}.
-\newblock
-\APACaddressPublisher{}{Spektrum Akademischer Verlag}.
-\newblock
-\begin{APACrefURL} \url{https://books.google.de/books?id=X47DrRaHJNkC}
-  \end{APACrefURL}
+\APACrefbtitle {Vorgehensmodelle kompakt} {Vorgehensmodelle kompakt}\ (\BVOL\
+  2. Hrsg.).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -65,7 +63,7 @@ Duden%
 }{%
 Duden%
 }{%
-{\protect \APACyear {Zugriff am 20.07.2015}}%
+{\protect \APACyear {2015}}%
 {\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
 adaptieren}
 \APACinsertmetastar {%
@@ -75,9 +73,11 @@ Duden.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{Zugriff am 20.07.2015{\protect \BCnt {1}}}{}{}.
+\APACrefYearMonthDay{2015{\protect \BCnt {1}}}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {adaptieren} {adaptieren}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{Abruf am 20.07.2015}.
 \newblock
 \begin{APACrefURL} \url{http://www.duden.de/node/687662/revisions/1384857/view}
   \end{APACrefURL}
@@ -88,8 +88,33 @@ Duden%
 }{%
 Duden%
 }{%
-{\protect \APACyear {Zugriff am 20.07.2015}}%
+{\protect \APACyear {2015}}%
 {\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+deskriptor}
+\APACinsertmetastar {%
+deskriptor}%
+\begin{APACrefauthors}%
+Duden.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {adaptieren} {adaptieren}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{Abruf am 20.07.2015}.
+\newblock
+\begin{APACrefURL} \url{http://www.duden.de/rechtschreibung/Deskriptor}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Duden%
+}{%
+Duden%
+}{%
+{\protect \APACyear {2015}}%
+{\protect \APACexlab {{\protect \BCnt {3}}}}}]{%
 lernhilfe}
 \APACinsertmetastar {%
 lernhilfe}%
@@ -98,9 +123,11 @@ Duden.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{Zugriff am 20.07.2015{\protect \BCnt {2}}}{}{}.
+\APACrefYearMonthDay{2015{\protect \BCnt {3}}}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {Lernhilfe} {Lernhilfe}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{Abruf am 20.07.2015}.
 \newblock
 \begin{APACrefURL} \url{http://www.duden.de/node/733105/revisions/1232018/view}
   \end{APACrefURL}
@@ -111,8 +138,8 @@ Duden%
 }{%
 Duden%
 }{%
-{\protect \APACyear {Zugriff am 20.07.2015}}%
-{\protect \APACexlab {{\protect \BCnt {3}}}}}]{%
+{\protect \APACyear {2015}}%
+{\protect \APACexlab {{\protect \BCnt {4}}}}}]{%
 onlinehilfe}
 \APACinsertmetastar {%
 onlinehilfe}%
@@ -121,12 +148,38 @@ Duden.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{Zugriff am 20.07.2015{\protect \BCnt {3}}}{}{}.
+\APACrefYearMonthDay{2015{\protect \BCnt {4}}}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {Onlinehilfe} {Onlinehilfe}.{\BBCQ}
 \newblock
+\APACjournalVolNumPages{}{}{}{Abruf am 20.07.2015}.
+\newblock
 \begin{APACrefURL} \url{http://www.duden.de/node/769414/revisions/1344323/view}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+für Normung~e. V.%
+}{%
+für Normung~e. V.%
+}{%
+{\protect \APACyear {1988}}%
+}]{%
+dinNorm}
+\APACinsertmetastar {%
+dinNorm}%
+\begin{APACrefauthors}%
+für Normung~e. V., D\BPBI D\BPBI I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1988}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Indexierung zur inhaltlichen Erschließung von
+  Dokumenten.} {Indexierung zur inhaltlichen erschließung von
+  dokumenten.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{DIN 31623}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -154,6 +207,57 @@ Hummel, O.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+InfoWissWiki%
+}{%
+InfoWissWiki%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+indexierung}
+\APACinsertmetastar {%
+indexierung}%
+\begin{APACrefauthors}%
+InfoWissWiki.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {InfoWissWiki - Indexierung} {Infowisswiki -
+  indexierung}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{Abruf am 20.07.2015}.
+\newblock
+\begin{APACrefURL} \url{http://wiki.infowiss.net/Indexierung} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Maier%
+}{%
+Maier%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+lernen}
+\APACinsertmetastar {%
+lernen}%
+\begin{APACrefauthors}%
+Maier, B., G.~W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Lernen} {Lernen}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{}{}{}{Abruf am 20.07.2015}.
+\newblock
+\begin{APACrefURL}
+  \url{http://wirtschaftslexikon.gabler.de/Archiv/85222/lernen-v7.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 onlinemarketing praxis.de%
 }{%
 onlinemarketing praxis.de%
@@ -173,8 +277,56 @@ onlinemarketing praxis.de.%
 {\BBOQ}\APACrefatitle {onlinemarketing praxis - Personas} {onlinemarketing
   praxis - personas}.{\BBCQ}
 \newblock
-\begin{APACrefURL} \url{http://www.onlinemarketing-praxis.de/glossar/personas
-  Zugriff am 20.07.2015} \end{APACrefURL}
+\APACjournalVolNumPages{}{}{}{Abruf am 20.07.2015}.
+\newblock
+\begin{APACrefURL} \url{http://www.onlinemarketing-praxis.de/glossar/personas}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shneiderman%
+}{%
+Shneiderman%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+designingUi}
+\APACinsertmetastar {%
+designingUi}%
+\begin{APACrefauthors}%
+Shneiderman, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {Designing the User Interface - Strategies for Effective
+  Human-Computer-Interaction} {Designing the user interface - strategies for
+  effective human-computer-interaction}\ (\BVOL\ 4.Hrsg.).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Son~Le%
+}{%
+Son~Le%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+gameBased}
+\APACinsertmetastar {%
+gameBased}%
+\begin{APACrefauthors}%
+Son~Le, M\BPBI E., Peter~Weber.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Game-Based Learning - Spielend Lernen} {Game-based
+  learning - spielend lernen}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Lehrbuch fuer Lernen und Lehren mit
+  Technologien}{}{}{267}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -197,7 +349,7 @@ Wolfgang I.~Schöllhorn, D\BPBI J\BPBI M\BPBI M., Hendrik~Beckmann.%
 {\BBOQ}\APACrefatitle {Differenzielles Lehren und Lernen im Sport}
   {Differenzielles lehren und lernen im sport}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{}{}{}{Zugriff am 16.07.2015}.
+\APACjournalVolNumPages{}{}{}{Abruf am 16.07.2015}.
 \newblock
 \begin{APACrefURL}
   \url{http://www.hofmann-verlag.de/project/zsarchiv/archiv/sportunterricht/2009/sportunterricht-Ausgabe-Februar-2009.pdf#page=6}
